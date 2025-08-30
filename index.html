@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=5" />
+  <meta name="theme-color" content="#111111" />
+  <!-- manifest + favikony + iOS touch icon -->
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="icon" sizes="32x32" href="favicon-32.png">
+<link rel="icon" sizes="16x16" href="favicon-16.png">
+<link rel="apple-touch-icon" href="apple-touch-icon-180.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="theme-color" content="#0b1117">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>Nauka Tarota (PWA)</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<!-- Overlay do powiększania obrazków -->
+<div id="zoomOverlay" class="zoom" aria-hidden="true">
+  <img id="zoomImg" alt="Powiększona karta">
+</div>
+<!-- Modal edycji karty -->
+<div id="editCardModal" class="modal" aria-hidden="true">
+  <div class="modal__panel">
+    <h3 style="margin:0 0 12px">Edytuj kartę</h3>
+    <div class="grid">
+      <label> Napis karty
+        <input id="edName" type="text" placeholder="np. Głupiec (0)">
+      </label>
+      <label> Arkan / kolor
+        <input id="edSuit" type="text" placeholder="np. Arkana Wielkie / Pentakle">
+      </label>
+      <label> Numer (opcjonalnie)
+        <input id="edNum" type="number" inputmode="numeric" placeholder="np. 0, 1..10">
+      </label>
+    </div>
+
+    <label> Opis
+      <textarea id="edDesc" rows="4" placeholder="Krótki opis karty"></textarea>
+    </label>
+
+    <label> Słowa kluczowe (po przecinku lub w nowych liniach)
+      <textarea id="edKw" rows="3" placeholder="np. początek, spontaniczność, zaufanie"></textarea>
+    </label>
+
+    <label> Słowa kluczowe – odwrócona
+      <textarea id="edRev" rows="3" placeholder="np. lekkomyślność, zwątpienie, blokada"></textarea>
+    </label>
+
+    <div class="btnbar" style="margin-top:12px; gap:12px; flex-wrap:wrap">
+      <button class="btn primary" id="editCardSave">Zapisz</button>
+      <button class="btn" id="editCardCancel">Anuluj</button>
+    </div>
+  </div>
+</div>
+<body>
+  <header class="app-header">
+    <h1>Nauka Tarota</h1>
+    <nav class="tabs" aria-label="Nawigacja">
+      <button class="tab active" data-tab="learn">Nauka kart</button>
+      <button class="tab" data-tab="draw">Losowanie</button>
+      <button class="tab" data-tab="spread">Rozkład 3 kart</button>
+      <button class="tab" data-tab="quiz">Quiz</button>
+      <button class="tab" data-tab="stats">Statystyki</button>
+      <button class="tab" data-tab="images">Obrazy</button>
+    </nav>
+  </header>
+
+  <main class="container">
+    <!-- NAUKA -->
+    <section id="learn" class="active">
+      <div class="card">
+        <div class="row">
+          <img id="learnImg" class="tarot-img" alt="Karta Tarota" />
+          <div class="grow">
+            <h2 id="learnTitle">Wylosuj kartę</h2>
+            <div class="muted" id="learnMeta"></div>
+            <p id="learnDesc" class="mt-10"></p>
+            <div id="learnKeywords"></div>
+            <div class="btnbar">
+              <button class="btn primary" id="btnLearnRandom">Losuj kartę</button>
+              <button class="btn" id="btnLearnSave">Zaznacz „Zapamiętane”</button>
+              <button class="btn" id="btnFlip">Obróć kartę</button>
+<button class="btn" id="btnEditCard">Edytuj opis ✏️</button>
+<div id="learnMore" class="more"></div>
+            </div>
+          </div>
+        </div>
+        <p class="footer">Odwrócone karty obracają obraz o 180° i są oznaczone <span class="rotate">⤾</span>.</p>
+      </div>
+    </section>
+
+    <!-- LOSOWANIE -->
+    <section id="draw">
+      <div class="card">
+        <h2>Jedna karta dnia</h2>
+        <p class="muted">Kliknij, aby wylosować — 50% szans na odwróconą.</p>
+        <div class="btnbar"><button class="btn primary" id="btnDraw">Losuj kartę</button></div>
+        <div id="drawResult" class="mt-12"></div>
+      </div>
+    </section>
+
+    <!-- ROZKŁAD -->
+<section id="spread">
+  <div class="card">
+    <h2>Rozkład 3 kart — Przeszłość / Teraźniejszość / Przyszłość</h2>
+
+    <div class="btnbar">
+      <button class="btn primary" id="btnSpread">Ułóż rozkład</button>
+    </div>
+
+    <!-- nowy układ: siatka + panele -->
+    <div class="spread-grid mt-12">
+      <div class="spread-slot">
+        <h4>Przeszłość</h4>
+        <img id="spPastImg" class="tarot-img" alt="Karta: przeszłość">
+        <div class="muted" id="spPast"></div>
+        <p id="spPastTxt"></p>
+      </div>
+
+      <div class="spread-slot">
+        <h4>Teraźniejszość</h4>
+        <img id="spNowImg" class="tarot-img" alt="Karta: teraźniejszość">
+        <div class="muted" id="spNow"></div>
+        <p id="spNowTxt"></p>
+      </div>
+
+      <div class="spread-slot">
+        <h4>Przyszłość</h4>
+        <img id="spFutureImg" class="tarot-img" alt="Karta: przyszłość">
+        <div class="muted" id="spFuture"></div>
+        <p id="spFutureTxt"></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+    <!-- QUIZ -->
+    <section id="quiz">
+      <div class="card">
+        <h2>Quiz: rozpoznaj kartę po słowach kluczowych</h2>
+        <p class="muted">Wybierz nazwę karty pasującą do podanych słów kluczowych.</p>
+        <div id="quizPrompt" class="hint"></div>
+        <ul id="quizOptions" class="quiz-list"></ul>
+        <div class="btnbar"><button class="btn primary" id="btnQuizNext">Następne pytanie</button></div>
+      </div>
+    </section>
+
+    <!-- STATYSTYKI -->
+    <section id="stats">
+      <div class="card">
+        <h2>Statystyki nauki</h2>
+        <div class="table-wrap">
+          <table class="stat-table" id="statTable">
+            <thead><tr><th>Karta</th><th>Poprawne</th><th>Podejścia</th><th>Skuteczność</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div class="btnbar"><button class="btn" id="btnResetStats">Wyczyść statystyki</button></div>
+      </div>
+    </section>
+
+    <!-- OBRAZY / OFFLINE -->
+    <section id="images">
+      <div class="card">
+        <h2>Obrazy kart i pamięć PWA</h2>
+        <ol class="muted">
+          <li><b>Opcja A:</b> wgraj obrazy do <code>img/</code> i kliknij przycisk, aby zapisać je offline.</li>
+          <li><b>Opcja B:</b> załaduj ZIP z kartami — pliki zostaną zapisane w pamięci aplikacji.</li>
+        </ol>
+
+        <!-- … w sekcji #images … -->
+<div class="btnbar">
+  <button class="btn" id="btnPrecacheAll">Pobierz wszystkie obrazy do pamięci</button>
+  <label class="btn" for="zipPicker">Import ZIP do pamięci</label>
+  <input type="file" id="zipPicker" accept=".zip" style="display:none" />
+
+<div class="card" style="margin-top:16px">
+  <h2>Opisy kart (JSON)</h2>
+  <p class="muted">Wyeksportuj bieżące opisy do pliku, edytuj i zaimportuj z powrotem. Działa offline.</p>
+  <div class="btnbar" style="gap:12px; flex-wrap:wrap">
+    <button class="btn" id="btnExportCardsJson">Eksportuj opisy (JSON)</button>
+    <input type="file" id="jsonCardsPicker" accept="application/json" hidden>
+    <button class="btn" id="btnImportCardsJson">Zaimportuj plik JSON…</button>
+<button class="btn" id="btnShowImportDetails">Pokaż pominięte</button>
+    <button class="btn" id="btnClearCustomTexts">Usuń własne opisy</button>
+  </div>
+</div>
+
+  <!-- NOWE: diagnostyka i czyszczenie -->
+  <button class="btn" id="btnCheckCache">Sprawdź pamięć</button>
+  <button class="btn" id="btnClearAll">Usuń wszystkie obrazy z pamięci</button>
+</div>
+
+<p class="muted">Możesz też dodać pojedyncze pliki i przypisać do kart (działają offline po zapisaniu):</p>
+<input type="file" id="imgPicker" multiple accept="image/*" />
+<div id="imgGrid" class="grid mt-12"></div>
+
+<!-- NOWE: podgląd tego co siedzi w pamięci PWA -->
+<h3 class="mt-12" style="margin-top:16px">Obrazy zapisane w pamięci</h3>
+<div id="userCacheList" class="grid mt-12"></div>
+    </section>
+  </main>
+
+  <!-- (opcjonalnie) lokalna biblioteka do ZIP -->
+  <script src="vendor/jszip.min.js"></script>
+
+  <script>
+    // Rejestracja Service Workera
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('service-worker.js');
+    }
+  </script>
+  <script src="app.js" defer></script>
+</body>
+</html>

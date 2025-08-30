@@ -1,0 +1,407 @@
+:root{
+  --bg: #f7f7f9;
+  --fg: #1f2328;
+  --muted: #667085;
+  --card: #ffffff;
+  --border: #e9e9ee;
+  --radius: 14px;
+  --gap: 12px;
+  --shadow: 0 10px 30px rgba(0,0,0,.06);
+}
+
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#0f1115; --fg:#e8eaed; --muted:#9aa4b2; --card:#151821; --border:#232635;
+    --shadow: 0 10px 30px rgba(0,0,0,.35);
+  }
+}
+
+*{ box-sizing: border-box; }
+
+html,body{
+  height:100%;
+  background:var(--bg);
+  color:var(--fg);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body{ margin:0; padding-bottom: calc(12px + env(safe-area-inset-bottom)); }
+
+.app-header{
+  position: sticky; top: 0; z-index: 5;
+  background: var(--bg);
+  backdrop-filter: saturate(180%) blur(10px);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 16px 8px;
+}
+
+.app-header h1{
+  margin: 0 0 8px;
+  font-size: 18px; font-weight: 700;
+}
+
+.tabs{
+  display: flex; gap: 8px; overflow-x:auto; padding-bottom: 6px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.tab{
+  flex: 0 0 auto;
+  border:1px solid var(--border); background: var(--card);
+  color: var(--fg);
+  padding: 8px 12px; border-radius: 999px; cursor: pointer;
+}
+.tab.active{ background: var(--fg); color: var(--bg); border-color: var(--fg); }
+
+.container{ max-width: 1000px; margin: 0 auto; padding: 16px; }
+
+section{ display:none; }
+section.active{ display:block; }
+
+.card{
+  background: var(--card); border:1px solid var(--border);
+  border-radius: var(--radius); padding: 16px; box-shadow: var(--shadow);
+}
+
+.row{ display:flex; gap: var(--gap); align-items:flex-start; flex-wrap: wrap; }
+.grow{ flex:1 1 320px; }
+.mt-10{ margin-top:10px; }
+.mt-12{ margin-top:12px; }
+
+.muted{ color: var(--muted); font-size: 14px; }
+
+.btnbar{ display:flex; gap:8px; flex-wrap:wrap; margin-top: 12px; }
+.btn{
+  border:1px solid var(--border); background: var(--card);
+  color: var(--fg); padding: 12px 14px; border-radius: 12px; cursor:pointer;
+  min-width: 44px; min-height: 44px; /* mobile hit area */
+}
+.btn.primary{ background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.btn:active{ transform: translateY(1px); }
+
+.pill{
+  display:inline-block; padding: 4px 10px; border-radius: 999px;
+  border:1px solid var(--border); background: #f3f4f6;
+  color:#475467; margin-right:6px; margin-top:6px; font-size: 13px;
+  pointer-events: none; /* to nie przycisk */
+}
+@media (prefers-color-scheme: dark){
+  .pill{ background:#1e2230; color:#b8c0cc; }
+}
+
+.rotate{ transform: rotate(180deg); display:inline-block; }
+
+.footer{ margin-top: 16px; color: var(--muted); font-size: 13px; }
+
+.tarot-img{
+  width: 220px; max-width: 45vw; aspect-ratio: 2/3; object-fit: cover;
+  border-radius: 12px; border:1px solid var(--border); background:#f0f0f3; box-shadow: var(--shadow);
+}
+.tarot-img.small{ width: 100%; max-width: 160px; }
+.tarot-img.reversed{ transform: rotate(180deg); }
+
+.spread{
+  display:grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: var(--gap);
+}
+.slot{ background: var(--card); border:1px solid var(--border); border-radius: var(--radius); padding:12px; }
+
+.quiz-list{ list-style:none; padding:0; margin:12px 0 0; display:grid; gap:8px; }
+.quiz-list li{
+  border:1px solid var(--border); border-radius: 12px; padding: 12px;
+  background: var(--card); cursor:pointer;
+}
+.quiz-list li.correct{ border-color:#18a558; outline: 2px solid #18a55830; }
+.quiz-list li.wrong{ border-color:#c62828; outline: 2px solid #c6282830; }
+
+.table-wrap{ overflow-x:auto; }
+.stat-table{ width:100%; border-collapse: collapse; font-size:14px; }
+.stat-table th, .stat-table td{ padding:8px; border-bottom:1px solid var(--border); text-align:left; }
+
+.grid{ display:grid; grid-template-columns: repeat(auto-fill, minmax(160px,1fr)); gap:12px; }
+.thumb{ border:1px solid var(--border); border-radius: 12px; padding: 10px; background: var(--card); }
+.thumb img{ width:100%; aspect-ratio:2/3; object-fit:cover; border-radius:8px; border:1px solid var(--border); }
+
+.hint{ background:#fff3cd; border:1px solid #ffe08a; color:#8a6d3b; padding:8px 12px; border-radius:10px; font-size:14px; }
+@media (prefers-color-scheme: dark){
+  .hint{ background:#382f11; border-color:#7a6525; color:#f2e1a8; }
+}
+
+/* Lepsza typografia na małych ekranach */
+@media (max-width: 480px){
+  .app-header h1{ font-size: 17px; }
+  .tarot-img{ width: 44vw; }
+}
+/* — kolorki — */
+:root{
+  --accent: #00e7ff;
+  --accent-soft: rgba(0,231,255,.35);
+}
+
+/* — subtelny neon na przyciskach — */
+.btn{
+  border: 1px solid var(--accent-soft);
+  box-shadow: 0 0 0 var(--accent-soft), inset 0 0 0 var(--accent-soft);
+  transition: box-shadow .25s ease, transform .06s ease;
+}
+.btn:hover{
+  box-shadow: 0 0 12px var(--accent), inset 0 0 16px var(--accent-soft);
+}
+.btn:active{ transform: translateY(1px); }
+
+/* — rozkład 3 kart: siatka i slot — */
+.spread-grid{
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0,1fr));
+  gap: 16px;
+  align-items: start;
+}
+.spread-slot{
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  border-radius: 16px;
+  background: rgba(255,255,255,.03);
+  border: 1px solid rgba(255,255,255,.08);
+}
+.spread-slot h4{ margin: 0 0 6px; }
+.spread-slot .tarot-img{
+  width: 100%;
+  height: auto;
+  max-height: 42vh;       /* karta na górze, duża ale bez przewijania */
+  object-fit: contain;
+  margin: 0 auto;
+}
+
+/* — telefon: 1 kolumna (karty jedna pod drugą, opisy pod nimi, czytelne) — */
+@media (max-width: 640px){
+  .spread-grid{ grid-template-columns: 1fr; }
+  .spread-slot .tarot-img{ max-height: 36vh; }
+}
+/* --- subtelny neon wokół kart --- */
+:root{
+  --accent: #00e7ff;
+  --accent-soft: rgba(0,231,255,.35);
+}
+
+.tarot-img{
+  display:block;
+  width:100%;
+  height:auto;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.10);
+  /* lekki glow + lekki „szklisty” środek */
+  box-shadow:
+    0 0 0 1px rgba(255,255,255,.06) inset,
+    0 0 12px var(--accent-soft);
+  background: radial-gradient(transparent 60%, rgba(0,231,255,.10) 100%);
+  transition: box-shadow .25s ease, filter .25s ease;
+}
+
+/* mocniejszy efekt w interakcji (na urządzeniach z myszką) */
+@media (hover:hover){
+  .tarot-img:hover{
+    box-shadow:
+      0 0 0 1px rgba(255,255,255,.12) inset,
+      0 0 16px var(--accent),
+      0 0 32px var(--accent-soft);
+    filter: saturate(1.06);
+  }
+}
+
+/* karta odwrócona – pozostawiamy obrót, glow zostaje */
+.tarot-img.reversed{ transform: rotate(180deg); }
+
+/* w rozkładzie trzymamy rozsądną wysokość (z poprzedniego stylu) */
+.spread-slot .tarot-img{
+  max-height: 42vh;
+  object-fit: contain;
+}
+
+@media (max-width: 640px){
+  .spread-slot .tarot-img{ max-height: 36vh; }
+}
+/* — neonowy obrys panelu karty (delikatny) — */
+:root{
+  --accent: #00e7ff;
+  --accent-soft: rgba(0,231,255,.35);
+}
+
+.spread-slot{
+  position: relative;
+  transition: border-color .25s ease, box-shadow .25s ease, transform .06s ease;
+  border: 1px solid rgba(255,255,255,.08);
+  border-radius: 16px;
+}
+.spread-slot::after{
+  content:'';
+  position:absolute; inset:-1px;
+  border-radius:16px;
+  box-shadow: 0 0 0 1px var(--accent-soft) inset, 0 0 0 transparent;
+  opacity:0; pointer-events:none;
+  transition: opacity .25s ease, box-shadow .25s ease;
+}
+@media (hover:hover){
+  .spread-slot:hover{ box-shadow: 0 0 18px var(--accent-soft); }
+  .spread-slot:hover::after{ opacity:1; box-shadow: 0 0 0 1px var(--accent), 0 0 22px var(--accent-soft); }
+}
+
+/* — overlay powiększenia — */
+.zoom{
+  position: fixed; inset:0;
+  background: rgba(0,0,0,.75);
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+  display:flex; align-items:center; justify-content:center;
+  padding: 24px;
+  z-index: 9999;
+  opacity: 0; pointer-events: none;
+  transition: opacity .2s ease;
+}
+.zoom.show{ opacity:1; pointer-events:auto; }
+.zoom img{
+  max-width: 95vw; max-height: 90vh;
+  border-radius: 14px;
+  box-shadow: 0 0 24px var(--accent), 0 0 48px var(--accent-soft);
+}
+/* Neon dla zakładek (Nauka kart / Losowanie / …) */
+:root{
+  --accent: #00e7ff;
+  --accent-soft: rgba(0,231,255,.35);
+}
+
+.tab{
+  appearance: none;
+  border-radius: 9999px;
+  border: 1px solid var(--accent-soft);
+  box-shadow:
+    0 0 0 1px rgba(255,255,255,.06) inset,
+    0 0 8px var(--accent-soft);
+  transition: box-shadow .2s ease, transform .06s ease, background-color .2s ease, color .2s ease;
+}
+
+/* aktywna zakładka – delikatnie mocniejszy glow */
+.tab.active{
+  box-shadow:
+    0 0 0 1px var(--accent) inset,
+    0 0 16px var(--accent-soft);
+}
+
+/* efekt najechania (na desktopie) */
+@media (hover:hover){
+  .tab:hover{
+    box-shadow:
+      0 0 0 1px var(--accent) inset,
+      0 0 14px var(--accent),
+      0 0 28px var(--accent-soft);
+  }
+}
+
+/* focus klawiaturą / a11y */
+.tab:focus-visible{
+  outline: none;
+  box-shadow:
+    0 0 0 2px rgba(0,0,0,.9),
+    0 0 0 4px var(--accent);
+}
+/* ciaśniejszy neon tylko w panelach rozkładu */
+.spread-slot .tarot-img{
+  box-shadow:
+    0 0 0 1px rgba(255,255,255,.08) inset,
+    0 0 18px 0 var(--accent),
+    0 0 30px 4px var(--accent-soft);
+}
+@media (hover:hover){
+  .spread-slot .tarot-img:hover{
+    box-shadow:
+      0 0 0 1px rgba(255,255,255,.12) inset,
+      0 0 22px 0 var(--accent),
+      0 0 36px 6px var(--accent-soft);
+  }
+}
+/* opcjonalnie: obetnij wszystko, co wychodzi poza panel (gdyby jeszcze lekko świeciło) */
+.spread-slot{ overflow: hidden; }
+/* Modal – minimalistyczny, spójny z motywem i neonem */
+.modal{position:fixed; inset:0; display:flex; align-items:center; justify-content:center;
+  background:rgba(0,0,0,.6); -webkit-backdrop-filter:blur(2px); backdrop-filter:blur(2px);
+  z-index:10000; opacity:0; pointer-events:none; transition:opacity .2s;}
+.modal.show{opacity:1; pointer-events:auto;}
+.modal__panel{width:min(720px,92vw); max-height:92vh; overflow:auto; padding:16px 16px 12px; border-radius:16px;
+  background:rgba(20,22,26,.96); border:1px solid rgba(255,255,255,.08);
+  box-shadow:0 0 18px var(--accent-soft);}
+.modal label{display:block; font-size:.95rem; margin:8px 0;}
+.modal input,.modal textarea{
+  width:100%; border-radius:10px; border:1px solid rgba(255,255,255,.12); background:rgba(255,255,255,.06);
+  color:inherit; padding:10px 12px; outline:none;
+  box-shadow:0 0 0 1px rgba(255,255,255,.06) inset, 0 0 6px var(--accent-soft);
+}
+.modal textarea{resize:vertical}
+.modal input:focus,.modal textarea:focus{box-shadow:0 0 0 1px var(--accent) inset, 0 0 14px var(--accent-soft);}
+.modal .grid{display:grid; grid-template-columns:1fr 1fr 140px; gap:12px;}
+@media(max-width:640px){ .modal .grid{grid-template-columns:1fr; } }
+/* iOS nie zoomuje, gdy font-size >= 16px */
+.modal input,
+.modal textarea,
+.modal select{
+  font-size: 16px;     /* kluczowe dla iOS */
+  line-height: 1.3;
+}
+
+/* panel trzyma ekran nawet z klawiaturą */
+.modal__panel{
+  max-height: 88svh;   /* dynamic viewport – lepiej z klawiaturą na iOS */
+}
+
+/* małe uściślenie: nie zmieniaj globalnej skali czcionek na iOS */
+html{ -webkit-text-size-adjust: 100%; }
+.more details{
+  margin: 10px 0;
+  padding: 12px 12px 6px;
+  border-radius: 12px;
+  background: rgba(255,255,255,.04);
+  border: 1px solid rgba(255,255,255,.08);
+  box-shadow: 0 0 0 1px rgba(255,255,255,.04) inset, 0 0 10px rgba(0,231,255,.25);
+}
+.more summary{
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+  outline: none;
+}
+.more summary::-webkit-details-marker{ display:none; }
+.more summary::after{
+  content: '▾';
+  float: right;
+  opacity: .7;
+  transition: transform .2s;
+}
+.more details[open] summary::after{ transform: rotate(180deg); }
+
+.more ul{ margin: 8px 0 4px 16px; }
+.more li{ margin: 2px 0; }
+.more .kv{ display:grid; grid-template-columns: 120px 1fr; gap:6px 10px; }
+.more .kv b{ opacity:.85; }
+/* Wyłącz stary neon w rozkładzie (jeśli masz pseudo-element ::before) */
+.spread .slot .cardWrap::before,
+.spread .slot .imgWrap::before { content: none !important; }
+
+/* Nowy neon – bezpośrednio na obrazie karty */
+:root{
+  --spread-glow-color: rgba(0, 255, 255, .32); /* kolor i siła */
+  --spread-glow-big:   26px;                   /* duże rozmycie */
+  --spread-glow-small: 10px;                   /* mniejsze, „gęstsze” */
+}
+
+.spread .slot img.tarot-img {
+  display: block;
+  margin: 0 auto;
+  /* neon skrojony do krawędzi obrazka */
+  filter:
+    drop-shadow(0 0 var(--spread-glow-big)   var(--spread-glow-color))
+    drop-shadow(0 0 var(--spread-glow-small) var(--spread-glow-color));
+}
+
+/* (opcjonalnie) delikatne zaokrąglenie, jeśli chcesz łagodniejszy kontur */
+.spread .slot img.tarot-img { border-radius: 12px; }
