@@ -1,0 +1,3126 @@
+{
+  "version": 1,
+  "lang": "pl",
+  "generatedAt": "2025-08-30T09:28:09.192478Z",
+  "cards": [
+    {
+      "id": "maj-0",
+      "name": "Głupiec (0)",
+      "suit": "Arkana Wielkie",
+      "number": 0,
+      "description": "Nowy początek i zaufanie drodze — skok w nieznane.",
+      "keywords": [
+        "początek",
+        "spontaniczność",
+        "zaufanie",
+        "wolność"
+      ],
+      "reversed": [
+        "lekkomyślność",
+        "niepewność",
+        "ucieczka"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: nowy początek i zaufanie drodze — skok w nieznane. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: nowy początek i zaufanie drodze — skok w nieznane. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: nowy początek i zaufanie drodze — skok w nieznane. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: nowy początek i zaufanie drodze — skok w nieznane. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Nowy początek i zaufanie drodze — skok w nieznane. Zrób jeden konkretny krok.",
+          "yesno": "Raczej TAK.",
+          "timing": "Teraz; okno okazji jest otwarte."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Głupiec (0) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-1",
+      "name": "Mag (1)",
+      "suit": "Arkana Wielkie",
+      "number": 1,
+      "description": "Skupiona wola i narzędzia pod ręką — zamieniasz zamiar w działanie.",
+      "keywords": [
+        "sprawczość",
+        "manifestacja",
+        "koncentracja",
+        "komunikacja"
+      ],
+      "reversed": [
+        "manipulacja",
+        "rozproszenie",
+        "brak działania"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: skupiona wola i narzędzia pod ręką — zamieniasz zamiar w działanie. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: skupiona wola i narzędzia pod ręką — zamieniasz zamiar w działanie. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: skupiona wola i narzędzia pod ręką — zamieniasz zamiar w działanie. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: skupiona wola i narzędzia pod ręką — zamieniasz zamiar w działanie. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Skupiona wola i narzędzia pod ręką — zamieniasz zamiar w działanie. Zrób jeden konkretny krok.",
+          "yesno": "Raczej TAK.",
+          "timing": "Teraz; okno okazji jest otwarte."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Mag (1) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-2",
+      "name": "Kapłanka (2)",
+      "suit": "Arkana Wielkie",
+      "number": 2,
+      "description": "Intuicja, cisza i wiedza wewnętrzna — słuchaj podszeptów podświadomości.",
+      "keywords": [
+        "intuicja",
+        "tajemnica",
+        "cisza",
+        "wnikliwość"
+      ],
+      "reversed": [
+        "sekrety",
+        "bierność",
+        "odcięcie"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: intuicja, cisza i wiedza wewnętrzna — słuchaj podszeptów podświadomości. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: intuicja, cisza i wiedza wewnętrzna — słuchaj podszeptów podświadomości. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: intuicja, cisza i wiedza wewnętrzna — słuchaj podszeptów podświadomości. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: intuicja, cisza i wiedza wewnętrzna — słuchaj podszeptów podświadomości. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Intuicja, cisza i wiedza wewnętrzna — słuchaj podszeptów podświadomości. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Kapłanka (2) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-3",
+      "name": "Cesarzowa (3)",
+      "suit": "Arkana Wielkie",
+      "number": 3,
+      "description": "Obfitość, troska i kreatywność — wzrost przez pielęgnowanie.",
+      "keywords": [
+        "płodność",
+        "opieka",
+        "kreatywność",
+        "komfort"
+      ],
+      "reversed": [
+        "przebodźcowanie",
+        "lenistwo",
+        "nadopiekuńczość"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: obfitość, troska i kreatywność — wzrost przez pielęgnowanie. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: obfitość, troska i kreatywność — wzrost przez pielęgnowanie. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: obfitość, troska i kreatywność — wzrost przez pielęgnowanie. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: obfitość, troska i kreatywność — wzrost przez pielęgnowanie. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Obfitość, troska i kreatywność — wzrost przez pielęgnowanie. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Cesarzowa (3) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-4",
+      "name": "Cesarz (4)",
+      "suit": "Arkana Wielkie",
+      "number": 4,
+      "description": "Struktura, granice i odpowiedzialność — porządek wspiera cel.",
+      "keywords": [
+        "autorytet",
+        "stabilność",
+        "strategia",
+        "granice"
+      ],
+      "reversed": [
+        "sztywność",
+        "kontrola",
+        "dominacja"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: struktura, granice i odpowiedzialność — porządek wspiera cel. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: struktura, granice i odpowiedzialność — porządek wspiera cel. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: struktura, granice i odpowiedzialność — porządek wspiera cel. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: struktura, granice i odpowiedzialność — porządek wspiera cel. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Struktura, granice i odpowiedzialność — porządek wspiera cel. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Cesarz (4) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-5",
+      "name": "Kapłan (Hierofant) (5)",
+      "suit": "Arkana Wielkie",
+      "number": 5,
+      "description": "Tradycja, nauka i wartości — ucz się w ramach, by zrozumieć ich sens.",
+      "keywords": [
+        "tradycja",
+        "nauka",
+        "mentor",
+        "rytuał"
+      ],
+      "reversed": [
+        "dogmatyzm",
+        "konwenans",
+        "bunt bez kierunku"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: tradycja, nauka i wartości — ucz się w ramach, by zrozumieć ich sens. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: tradycja, nauka i wartości — ucz się w ramach, by zrozumieć ich sens. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: tradycja, nauka i wartości — ucz się w ramach, by zrozumieć ich sens. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: tradycja, nauka i wartości — ucz się w ramach, by zrozumieć ich sens. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Tradycja, nauka i wartości — ucz się w ramach, by zrozumieć ich sens. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Kapłan (Hierofant) (5) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-6",
+      "name": "Kochankowie (6)",
+      "suit": "Arkana Wielkie",
+      "number": 6,
+      "description": "Wybór z serca i relacja — integracja wartości i pragnień.",
+      "keywords": [
+        "miłość",
+        "wybór",
+        "sojusz",
+        "integracja"
+      ],
+      "reversed": [
+        "niezgoda",
+        "rozdwojenie",
+        "pokusa"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: wybór z serca i relacja — integracja wartości i pragnień. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: wybór z serca i relacja — integracja wartości i pragnień. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: wybór z serca i relacja — integracja wartości i pragnień. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: wybór z serca i relacja — integracja wartości i pragnień. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Wybór z serca i relacja — integracja wartości i pragnień. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Kochankowie (6) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-7",
+      "name": "Rydwan (7)",
+      "suit": "Arkana Wielkie",
+      "number": 7,
+      "description": "Determinacja i kierunek — trzymaj lejce, a dojedziesz do celu.",
+      "keywords": [
+        "wola",
+        "ruch",
+        "zwycięstwo",
+        "samokontrola"
+      ],
+      "reversed": [
+        "brak kontroli",
+        "rozproszenie",
+        "hamowanie"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: determinacja i kierunek — trzymaj lejce, a dojedziesz do celu. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: determinacja i kierunek — trzymaj lejce, a dojedziesz do celu. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: determinacja i kierunek — trzymaj lejce, a dojedziesz do celu. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: determinacja i kierunek — trzymaj lejce, a dojedziesz do celu. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Determinacja i kierunek — trzymaj lejce, a dojedziesz do celu. Zrób jeden konkretny krok.",
+          "yesno": "Raczej TAK.",
+          "timing": "Teraz; okno okazji jest otwarte."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Rydwan (7) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-8",
+      "name": "Siła (8)",
+      "suit": "Arkana Wielkie",
+      "number": 8,
+      "description": "Łagodna moc i odwaga — delikatność silniejsza od przemocy.",
+      "keywords": [
+        "odwaga",
+        "cierpliwość",
+        "opanowanie",
+        "empatia"
+      ],
+      "reversed": [
+        "słabość",
+        "wyczerpanie",
+        "frustracja"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: łagodna moc i odwaga — delikatność silniejsza od przemocy. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: łagodna moc i odwaga — delikatność silniejsza od przemocy. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: łagodna moc i odwaga — delikatność silniejsza od przemocy. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: łagodna moc i odwaga — delikatność silniejsza od przemocy. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Łagodna moc i odwaga — delikatność silniejsza od przemocy. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Siła (8) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-9",
+      "name": "Pustelnik (9)",
+      "suit": "Arkana Wielkie",
+      "number": 9,
+      "description": "Wycofanie dla jasności — mądrość przychodzi w ciszy.",
+      "keywords": [
+        "refleksja",
+        "samotność",
+        "intuicja",
+        "latarnia"
+      ],
+      "reversed": [
+        "izolacja",
+        "zamknięcie",
+        "błądzenie"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: wycofanie dla jasności — mądrość przychodzi w ciszy. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: wycofanie dla jasności — mądrość przychodzi w ciszy. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: wycofanie dla jasności — mądrość przychodzi w ciszy. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: wycofanie dla jasności — mądrość przychodzi w ciszy. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Wycofanie dla jasności — mądrość przychodzi w ciszy. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Pustelnik (9) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-10",
+      "name": "Koło Fortuny (10)",
+      "suit": "Arkana Wielkie",
+      "number": 10,
+      "description": "Zmiana cyklu — koło się obraca; wykorzystaj moment.",
+      "keywords": [
+        "cykl",
+        "los",
+        "zwrot",
+        "szansa"
+      ],
+      "reversed": [
+        "opór",
+        "pech",
+        "utknięcie"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: zmiana cyklu — koło się obraca; wykorzystaj moment. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: zmiana cyklu — koło się obraca; wykorzystaj moment. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: zmiana cyklu — koło się obraca; wykorzystaj moment. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: zmiana cyklu — koło się obraca; wykorzystaj moment. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Zmiana cyklu — koło się obraca; wykorzystaj moment. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Koło Fortuny (10) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-11",
+      "name": "Sprawiedliwość (11)",
+      "suit": "Arkana Wielkie",
+      "number": 11,
+      "description": "Równowaga i konsekwencje — decyzje w oparciu o prawdę.",
+      "keywords": [
+        "prawda",
+        "balans",
+        "odpowiedzialność",
+        "uczciwość"
+      ],
+      "reversed": [
+        "stronniczość",
+        "niesprawiedliwość",
+        "brak jasności"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: równowaga i konsekwencje — decyzje w oparciu o prawdę. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: równowaga i konsekwencje — decyzje w oparciu o prawdę. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: równowaga i konsekwencje — decyzje w oparciu o prawdę. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: równowaga i konsekwencje — decyzje w oparciu o prawdę. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Równowaga i konsekwencje — decyzje w oparciu o prawdę. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Sprawiedliwość (11) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-12",
+      "name": "Wisielec (12)",
+      "suit": "Arkana Wielkie",
+      "number": 12,
+      "description": "Zatrzymanie dla nowej perspektywy — odpuść, by zobaczyć inaczej.",
+      "keywords": [
+        "perspektywa",
+        "zawieszenie",
+        "poświęcenie",
+        "wgląd"
+      ],
+      "reversed": [
+        "zwłoka",
+        "utknięcie",
+        "upór"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: zatrzymanie dla nowej perspektywy — odpuść, by zobaczyć inaczej. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: zatrzymanie dla nowej perspektywy — odpuść, by zobaczyć inaczej. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: zatrzymanie dla nowej perspektywy — odpuść, by zobaczyć inaczej. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: zatrzymanie dla nowej perspektywy — odpuść, by zobaczyć inaczej. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Zatrzymanie dla nowej perspektywy — odpuść, by zobaczyć inaczej. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Wisielec (12) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-13",
+      "name": "Śmierć (13)",
+      "suit": "Arkana Wielkie",
+      "number": 13,
+      "description": "Zamknięcie rozdziału i transformacja — zrób miejsce na nowe.",
+      "keywords": [
+        "transformacja",
+        "koniec",
+        "oczyszczenie",
+        "odrodzenie"
+      ],
+      "reversed": [
+        "opór przed zmianą",
+        "kurczowe trzymanie",
+        "zastój"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: zamknięcie rozdziału i transformacja — zrób miejsce na nowe. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: zamknięcie rozdziału i transformacja — zrób miejsce na nowe. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: zamknięcie rozdziału i transformacja — zrób miejsce na nowe. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: zamknięcie rozdziału i transformacja — zrób miejsce na nowe. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Zamknięcie rozdziału i transformacja — zrób miejsce na nowe. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Śmierć (13) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-14",
+      "name": "Umiarkowanie (14)",
+      "suit": "Arkana Wielkie",
+      "number": 14,
+      "description": "Harmonia przez łączenie — złoty środek i cierpliwa alchemia.",
+      "keywords": [
+        "balans",
+        "umiarkowanie",
+        "leczenie",
+        "integracja"
+      ],
+      "reversed": [
+        "skrajność",
+        "rozlanie energii",
+        "niecierpliwość"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: harmonia przez łączenie — złoty środek i cierpliwa alchemia. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: harmonia przez łączenie — złoty środek i cierpliwa alchemia. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: harmonia przez łączenie — złoty środek i cierpliwa alchemia. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: harmonia przez łączenie — złoty środek i cierpliwa alchemia. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Harmonia przez łączenie — złoty środek i cierpliwa alchemia. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Umiarkowanie (14) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-15",
+      "name": "Diabeł (15)",
+      "suit": "Arkana Wielkie",
+      "number": 15,
+      "description": "Uwiązania i nawyki — zobacz łańcuchy, by je poluzować.",
+      "keywords": [
+        "przywiązanie",
+        "nawyk",
+        "cień",
+        "materializm"
+      ],
+      "reversed": [
+        "wyzwolenie",
+        "wgląd w cień",
+        "detoks"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: uwiązania i nawyki — zobacz łańcuchy, by je poluzować. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: uwiązania i nawyki — zobacz łańcuchy, by je poluzować. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: uwiązania i nawyki — zobacz łańcuchy, by je poluzować. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: uwiązania i nawyki — zobacz łańcuchy, by je poluzować. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Uwiązania i nawyki — zobacz łańcuchy, by je poluzować. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Po przełamaniu iluzji/ograniczeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Diabeł (15) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-16",
+      "name": "Wieża (16)",
+      "suit": "Arkana Wielkie",
+      "number": 16,
+      "description": "Nagłe przebudzenie — to, co kruche, pęka, by odsłonić prawdę.",
+      "keywords": [
+        "przełom",
+        "zerwanie",
+        "katharsis",
+        "prawda"
+      ],
+      "reversed": [
+        "szok",
+        "chaos",
+        "opór"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: nagłe przebudzenie — to, co kruche, pęka, by odsłonić prawdę. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: nagłe przebudzenie — to, co kruche, pęka, by odsłonić prawdę. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: nagłe przebudzenie — to, co kruche, pęka, by odsłonić prawdę. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: nagłe przebudzenie — to, co kruche, pęka, by odsłonić prawdę. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Nagłe przebudzenie — to, co kruche, pęka, by odsłonić prawdę. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Po przełamaniu iluzji/ograniczeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Wieża (16) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-17",
+      "name": "Gwiazda (17)",
+      "suit": "Arkana Wielkie",
+      "number": 17,
+      "description": "Spokój, nadzieja i uzdrawianie — wraca zaufanie do życia.",
+      "keywords": [
+        "nadzieja",
+        "uzdrowienie",
+        "inspiracja",
+        "spokój"
+      ],
+      "reversed": [
+        "zwątpienie",
+        "wyczerpanie",
+        "brak wiary"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: spokój, nadzieja i uzdrawianie — wraca zaufanie do życia. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: spokój, nadzieja i uzdrawianie — wraca zaufanie do życia. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: spokój, nadzieja i uzdrawianie — wraca zaufanie do życia. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: spokój, nadzieja i uzdrawianie — wraca zaufanie do życia. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Spokój, nadzieja i uzdrawianie — wraca zaufanie do życia. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Gwiazda (17) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-18",
+      "name": "Księżyc (18)",
+      "suit": "Arkana Wielkie",
+      "number": 18,
+      "description": "Cień i intuicja — mgła znika, gdy ufasz odczuciom.",
+      "keywords": [
+        "intuicja",
+        "podświadomość",
+        "lęk",
+        "iluzja"
+      ],
+      "reversed": [
+        "klarowność",
+        "konfrontacja",
+        "przebudzenie"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: cień i intuicja — mgła znika, gdy ufasz odczuciom. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: cień i intuicja — mgła znika, gdy ufasz odczuciom. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: cień i intuicja — mgła znika, gdy ufasz odczuciom. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: cień i intuicja — mgła znika, gdy ufasz odczuciom. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Cień i intuicja — mgła znika, gdy ufasz odczuciom. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Po przełamaniu iluzji/ograniczeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Księżyc (18) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-19",
+      "name": "Słońce (19)",
+      "suit": "Arkana Wielkie",
+      "number": 19,
+      "description": "Radość, jasność i sukces — świeć pełnią mocy.",
+      "keywords": [
+        "sukces",
+        "radość",
+        "żywotność",
+        "jasność"
+      ],
+      "reversed": [
+        "przesyt",
+        "spalenie",
+        "ego"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: radość, jasność i sukces — świeć pełnią mocy. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: radość, jasność i sukces — świeć pełnią mocy. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: radość, jasność i sukces — świeć pełnią mocy. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: radość, jasność i sukces — świeć pełnią mocy. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Radość, jasność i sukces — świeć pełnią mocy. Zrób jeden konkretny krok.",
+          "yesno": "Raczej TAK.",
+          "timing": "Teraz; okno okazji jest otwarte."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Słońce (19) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-20",
+      "name": "Sąd (Ostateczny) (20)",
+      "suit": "Arkana Wielkie",
+      "number": 20,
+      "description": "Wezwanie i odnowa — odpowiedz na głos serca.",
+      "keywords": [
+        "przebudzenie",
+        "rozliczenie",
+        "odnowa",
+        "powołanie"
+      ],
+      "reversed": [
+        "zwłoka",
+        "samokrytyka",
+        "lęk przed oceną"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: wezwanie i odnowa — odpowiedz na głos serca. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: wezwanie i odnowa — odpowiedz na głos serca. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: wezwanie i odnowa — odpowiedz na głos serca. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: wezwanie i odnowa — odpowiedz na głos serca. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Wezwanie i odnowa — odpowiedz na głos serca. Zrób jeden konkretny krok.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Sąd (Ostateczny) (20) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "maj-21",
+      "name": "Świat (21)",
+      "suit": "Arkana Wielkie",
+      "number": 21,
+      "description": "Domknięcie cyklu i integracja — jesteś na miejscu.",
+      "keywords": [
+        "pełnia",
+        "spełnienie",
+        "podróż",
+        "integracja"
+      ],
+      "reversed": [
+        "niedomknięcie",
+        "blokada",
+        "brak satysfakcji"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "W relacjach: domknięcie cyklu i integracja — jesteś na miejscu. Zadbaj o komunikację i szacunek granic.",
+          "career": "W pracy: domknięcie cyklu i integracja — jesteś na miejscu. Ustal priorytety i działaj świadomie.",
+          "finance": "Finanse: domknięcie cyklu i integracja — jesteś na miejscu. Prowadź mądrą gospodarkę zasobami.",
+          "health": "Zdrowie: domknięcie cyklu i integracja — jesteś na miejscu. Wspieraj równowagę ciała i umysłu.",
+          "advice": "Rada: Domknięcie cyklu i integracja — jesteś na miejscu. Zrób jeden konkretny krok.",
+          "yesno": "Raczej TAK.",
+          "timing": "Teraz; okno okazji jest otwarte."
+        },
+        "imagery": [],
+        "questions": [
+          "Co karta Świat (21) zachęca mnie dziś zrobić?",
+          "Jaki najmniejszy krok przybliży mnie do celu?"
+        ],
+        "affirmations": [
+          "Jestem w kontakcie ze swoją intencją.",
+          "Każde działanie zbliża mnie do celu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-1",
+      "name": "As Buławy",
+      "suit": "Buławy",
+      "number": 1,
+      "description": "Buławy: początek i czysta iskra w obszarze energia i inicjatywa.",
+      "keywords": [
+        "potencjał",
+        "nowy impuls",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "impulsywność",
+        "wypalenie",
+        "chaos"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: początek w obszarze pasja i działanie. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: początek — rozpocznij śmiało. Wykorzystaj inicjatywa.",
+          "finance": "Finanse: początek — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: początek — regularność i samoopieka.",
+          "advice": "Rada: Rozpocznij śmiało.",
+          "yesno": "Raczej TAK.",
+          "timing": "Teraz; okno okazji jest otwarte."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni pasja i działanie?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-2",
+      "name": "Dwójka Buławy",
+      "suit": "Buławy",
+      "number": 2,
+      "description": "Buławy: dualność i wybór w obszarze energia i inicjatywa.",
+      "keywords": [
+        "partnerstwo",
+        "równowaga",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "impulsywność",
+        "wypalenie",
+        "chaos"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: wybór/partnerstwo w obszarze pasja i działanie. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: wybór/partnerstwo — podejmij decyzję. Wykorzystaj inicjatywa.",
+          "finance": "Finanse: wybór/partnerstwo — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: wybór/partnerstwo — regularność i samoopieka.",
+          "advice": "Rada: Podejmij decyzję.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni pasja i działanie?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-3",
+      "name": "Trójka Buławy",
+      "suit": "Buławy",
+      "number": 3,
+      "description": "Buławy: wzrost i ekspresja w obszarze energia i inicjatywa.",
+      "keywords": [
+        "tworzenie",
+        "współpraca",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "impulsywność",
+        "wypalenie",
+        "chaos"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: wzrost w obszarze pasja i działanie. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: wzrost — współpracuj i rozwijaj. Wykorzystaj inicjatywa.",
+          "finance": "Finanse: wzrost — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: wzrost — regularność i samoopieka.",
+          "advice": "Rada: Współpracuj i rozwijaj.",
+          "yesno": "Raczej TAK.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni pasja i działanie?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-4",
+      "name": "Czwórka Buławy",
+      "suit": "Buławy",
+      "number": 4,
+      "description": "Buławy: stabilizacja i struktura w obszarze energia i inicjatywa.",
+      "keywords": [
+        "fundament",
+        "granice",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "impulsywność",
+        "wypalenie",
+        "chaos"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: stabilność w obszarze pasja i działanie. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: stabilność — umocnij fundamenty. Wykorzystaj inicjatywa.",
+          "finance": "Finanse: stabilność — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: stabilność — regularność i samoopieka.",
+          "advice": "Rada: Umocnij fundamenty.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni pasja i działanie?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-5",
+      "name": "Piątka Buławy",
+      "suit": "Buławy",
+      "number": 5,
+      "description": "Buławy: napięcie i zmiana w obszarze energia i inicjatywa.",
+      "keywords": [
+        "wyzwanie",
+        "konflikt",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "impulsywność",
+        "wypalenie",
+        "chaos"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: zmiana/konflikt w obszarze pasja i działanie. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: zmiana/konflikt — zostań elastyczny. Wykorzystaj inicjatywa.",
+          "finance": "Finanse: zmiana/konflikt — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: zmiana/konflikt — regularność i samoopieka.",
+          "advice": "Rada: Zostań elastyczny.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Po minięciu napięcia."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni pasja i działanie?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-6",
+      "name": "Szóstka Buławy",
+      "suit": "Buławy",
+      "number": 6,
+      "description": "Buławy: harmonia i wymiana w obszarze energia i inicjatywa.",
+      "keywords": [
+        "przepływ",
+        "wsparcie",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "impulsywność",
+        "wypalenie",
+        "chaos"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: harmonia w obszarze pasja i działanie. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: harmonia — szukaj równowagi. Wykorzystaj inicjatywa.",
+          "finance": "Finanse: harmonia — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: harmonia — regularność i samoopieka.",
+          "advice": "Rada: Szukaj równowagi.",
+          "yesno": "Raczej TAK.",
+          "timing": "Wkrótce; po wyrównaniu przepływu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni pasja i działanie?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-7",
+      "name": "Siódemka Buławy",
+      "suit": "Buławy",
+      "number": 7,
+      "description": "Buławy: ocena i wewnętrzny wysiłek w obszarze energia i inicjatywa.",
+      "keywords": [
+        "wytrwałość",
+        "wgląd",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "impulsywność",
+        "wypalenie",
+        "chaos"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: próba/ocena w obszarze pasja i działanie. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: próba/ocena — wytrwaj i ucz się. Wykorzystaj inicjatywa.",
+          "finance": "Finanse: próba/ocena — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: próba/ocena — regularność i samoopieka.",
+          "advice": "Rada: Wytrwaj i ucz się.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni pasja i działanie?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-8",
+      "name": "Ósemka Buławy",
+      "suit": "Buławy",
+      "number": 8,
+      "description": "Buławy: moc i konsekwencja w obszarze energia i inicjatywa.",
+      "keywords": [
+        "praca",
+        "siła",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "impulsywność",
+        "wypalenie",
+        "chaos"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: moc/konsekwencja w obszarze pasja i działanie. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: moc/konsekwencja — działaj systematycznie. Wykorzystaj inicjatywa.",
+          "finance": "Finanse: moc/konsekwencja — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: moc/konsekwencja — regularność i samoopieka.",
+          "advice": "Rada: Działaj systematycznie.",
+          "yesno": "Raczej TAK.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni pasja i działanie?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-9",
+      "name": "Dziewiątka Buławy",
+      "suit": "Buławy",
+      "number": 9,
+      "description": "Buławy: dojrzałość i finał tuż przed kulminacją w obszarze energia i inicjatywa.",
+      "keywords": [
+        "spełnienie",
+        "wytrwałość",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "impulsywność",
+        "wypalenie",
+        "chaos"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: finał blisko w obszarze pasja i działanie. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: finał blisko — dokończ to, co zaczęte. Wykorzystaj inicjatywa.",
+          "finance": "Finanse: finał blisko — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: finał blisko — regularność i samoopieka.",
+          "advice": "Rada: Dokończ to, co zaczęte.",
+          "yesno": "Raczej TAK.",
+          "timing": "Wkrótce; gdy domkniesz etap."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni pasja i działanie?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-10",
+      "name": "Dziesiątka Buławy",
+      "suit": "Buławy",
+      "number": 10,
+      "description": "Buławy: kulminacja i zamknięcie cyklu w obszarze energia i inicjatywa.",
+      "keywords": [
+        "finał",
+        "przemiana",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "impulsywność",
+        "wypalenie",
+        "chaos"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: kulminacja w obszarze pasja i działanie. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: kulminacja — zaakceptuj zamknięcie. Wykorzystaj inicjatywa.",
+          "finance": "Finanse: kulminacja — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: kulminacja — regularność i samoopieka.",
+          "advice": "Rada: Zaakceptuj zamknięcie.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni pasja i działanie?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-paz",
+      "name": "Paź Buławy",
+      "suit": "Buławy",
+      "number": null,
+      "description": "Buławy: wiadomość i nauka w sferze energia.",
+      "keywords": [
+        "uczeń",
+        "wiadomość",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "rozproszenie",
+        "wypalenie",
+        "brak kierunku"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — wiadomość/nauka w sferze pasja i działanie.",
+          "career": "Praca: wiadomość/nauka prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: wiadomość/nauka; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: wiadomość/nauka — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość pasja i działanie w codzienne decyzje.",
+          "yesno": "Raczej TAK.",
+          "timing": "Niedługo; gdy pojawi się sygnał."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać pasja i działanie w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-ryc",
+      "name": "Rycerz Buławy",
+      "suit": "Buławy",
+      "number": null,
+      "description": "Buławy: ruch i działanie w sferze energia.",
+      "keywords": [
+        "ruch",
+        "determinacja",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "rozproszenie",
+        "wypalenie",
+        "brak kierunku"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — ruch/działanie w sferze pasja i działanie.",
+          "career": "Praca: ruch/działanie prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: ruch/działanie; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: ruch/działanie — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość pasja i działanie w codzienne decyzje.",
+          "yesno": "Raczej TAK.",
+          "timing": "Szybko; w ruchu."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać pasja i działanie w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-krolowa",
+      "name": "Królowa Buławy",
+      "suit": "Buławy",
+      "number": null,
+      "description": "Buławy: opieka i dojrzałość wewnętrzna w sferze energia.",
+      "keywords": [
+        "opieka",
+        "intuicja",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "rozproszenie",
+        "wypalenie",
+        "brak kierunku"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — opieka/mądrość w sferze pasja i działanie.",
+          "career": "Praca: opieka/mądrość prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: opieka/mądrość; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: opieka/mądrość — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość pasja i działanie w codzienne decyzje.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; w stabilnym rytmie."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać pasja i działanie w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "bul-krol",
+      "name": "Król Buławy",
+      "suit": "Buławy",
+      "number": null,
+      "description": "Buławy: władza i mistrzostwo w sferze energia.",
+      "keywords": [
+        "autorytet",
+        "strategia",
+        "energia",
+        "inicjatywa"
+      ],
+      "reversed": [
+        "rozproszenie",
+        "wypalenie",
+        "brak kierunku"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — mistrzostwo/władza w sferze pasja i działanie.",
+          "career": "Praca: mistrzostwo/władza prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: mistrzostwo/władza; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: mistrzostwo/władza — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość pasja i działanie w codzienne decyzje.",
+          "yesno": "Raczej TAK.",
+          "timing": "Gdy przejmiesz ster."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać pasja i działanie w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-1",
+      "name": "As Kielichy",
+      "suit": "Kielichy",
+      "number": 1,
+      "description": "Kielichy: początek i czysta iskra w obszarze uczucia i intuicja.",
+      "keywords": [
+        "potencjał",
+        "nowy impuls",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "iluzje",
+        "ucieczka"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: początek w obszarze uczucia i relacje. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: początek — rozpocznij śmiało. Wykorzystaj intuicja.",
+          "finance": "Finanse: początek — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: początek — regularność i samoopieka.",
+          "advice": "Rada: Rozpocznij śmiało.",
+          "yesno": "Raczej TAK.",
+          "timing": "Teraz; okno okazji jest otwarte."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni uczucia i relacje?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-2",
+      "name": "Dwójka Kielichy",
+      "suit": "Kielichy",
+      "number": 2,
+      "description": "Kielichy: dualność i wybór w obszarze uczucia i intuicja.",
+      "keywords": [
+        "partnerstwo",
+        "równowaga",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "iluzje",
+        "ucieczka"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: wybór/partnerstwo w obszarze uczucia i relacje. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: wybór/partnerstwo — podejmij decyzję. Wykorzystaj intuicja.",
+          "finance": "Finanse: wybór/partnerstwo — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: wybór/partnerstwo — regularność i samoopieka.",
+          "advice": "Rada: Podejmij decyzję.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni uczucia i relacje?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-3",
+      "name": "Trójka Kielichy",
+      "suit": "Kielichy",
+      "number": 3,
+      "description": "Kielichy: wzrost i ekspresja w obszarze uczucia i intuicja.",
+      "keywords": [
+        "tworzenie",
+        "współpraca",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "iluzje",
+        "ucieczka"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: wzrost w obszarze uczucia i relacje. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: wzrost — współpracuj i rozwijaj. Wykorzystaj intuicja.",
+          "finance": "Finanse: wzrost — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: wzrost — regularność i samoopieka.",
+          "advice": "Rada: Współpracuj i rozwijaj.",
+          "yesno": "Raczej TAK.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni uczucia i relacje?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-4",
+      "name": "Czwórka Kielichy",
+      "suit": "Kielichy",
+      "number": 4,
+      "description": "Kielichy: stabilizacja i struktura w obszarze uczucia i intuicja.",
+      "keywords": [
+        "fundament",
+        "granice",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "iluzje",
+        "ucieczka"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: stabilność w obszarze uczucia i relacje. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: stabilność — umocnij fundamenty. Wykorzystaj intuicja.",
+          "finance": "Finanse: stabilność — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: stabilność — regularność i samoopieka.",
+          "advice": "Rada: Umocnij fundamenty.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni uczucia i relacje?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-5",
+      "name": "Piątka Kielichy",
+      "suit": "Kielichy",
+      "number": 5,
+      "description": "Kielichy: napięcie i zmiana w obszarze uczucia i intuicja.",
+      "keywords": [
+        "wyzwanie",
+        "konflikt",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "iluzje",
+        "ucieczka"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: zmiana/konflikt w obszarze uczucia i relacje. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: zmiana/konflikt — zostań elastyczny. Wykorzystaj intuicja.",
+          "finance": "Finanse: zmiana/konflikt — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: zmiana/konflikt — regularność i samoopieka.",
+          "advice": "Rada: Zostań elastyczny.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Po minięciu napięcia."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni uczucia i relacje?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-6",
+      "name": "Szóstka Kielichy",
+      "suit": "Kielichy",
+      "number": 6,
+      "description": "Kielichy: harmonia i wymiana w obszarze uczucia i intuicja.",
+      "keywords": [
+        "przepływ",
+        "wsparcie",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "iluzje",
+        "ucieczka"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: harmonia w obszarze uczucia i relacje. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: harmonia — szukaj równowagi. Wykorzystaj intuicja.",
+          "finance": "Finanse: harmonia — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: harmonia — regularność i samoopieka.",
+          "advice": "Rada: Szukaj równowagi.",
+          "yesno": "Raczej TAK.",
+          "timing": "Wkrótce; po wyrównaniu przepływu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni uczucia i relacje?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-7",
+      "name": "Siódemka Kielichy",
+      "suit": "Kielichy",
+      "number": 7,
+      "description": "Kielichy: ocena i wewnętrzny wysiłek w obszarze uczucia i intuicja.",
+      "keywords": [
+        "wytrwałość",
+        "wgląd",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "iluzje",
+        "ucieczka"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: próba/ocena w obszarze uczucia i relacje. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: próba/ocena — wytrwaj i ucz się. Wykorzystaj intuicja.",
+          "finance": "Finanse: próba/ocena — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: próba/ocena — regularność i samoopieka.",
+          "advice": "Rada: Wytrwaj i ucz się.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni uczucia i relacje?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-8",
+      "name": "Ósemka Kielichy",
+      "suit": "Kielichy",
+      "number": 8,
+      "description": "Kielichy: moc i konsekwencja w obszarze uczucia i intuicja.",
+      "keywords": [
+        "praca",
+        "siła",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "iluzje",
+        "ucieczka"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: moc/konsekwencja w obszarze uczucia i relacje. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: moc/konsekwencja — działaj systematycznie. Wykorzystaj intuicja.",
+          "finance": "Finanse: moc/konsekwencja — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: moc/konsekwencja — regularność i samoopieka.",
+          "advice": "Rada: Działaj systematycznie.",
+          "yesno": "Raczej TAK.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni uczucia i relacje?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-9",
+      "name": "Dziewiątka Kielichy",
+      "suit": "Kielichy",
+      "number": 9,
+      "description": "Kielichy: dojrzałość i finał tuż przed kulminacją w obszarze uczucia i intuicja.",
+      "keywords": [
+        "spełnienie",
+        "wytrwałość",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "iluzje",
+        "ucieczka"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: finał blisko w obszarze uczucia i relacje. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: finał blisko — dokończ to, co zaczęte. Wykorzystaj intuicja.",
+          "finance": "Finanse: finał blisko — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: finał blisko — regularność i samoopieka.",
+          "advice": "Rada: Dokończ to, co zaczęte.",
+          "yesno": "Raczej TAK.",
+          "timing": "Wkrótce; gdy domkniesz etap."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni uczucia i relacje?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-10",
+      "name": "Dziesiątka Kielichy",
+      "suit": "Kielichy",
+      "number": 10,
+      "description": "Kielichy: kulminacja i zamknięcie cyklu w obszarze uczucia i intuicja.",
+      "keywords": [
+        "finał",
+        "przemiana",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "iluzje",
+        "ucieczka"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: kulminacja w obszarze uczucia i relacje. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: kulminacja — zaakceptuj zamknięcie. Wykorzystaj intuicja.",
+          "finance": "Finanse: kulminacja — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: kulminacja — regularność i samoopieka.",
+          "advice": "Rada: Zaakceptuj zamknięcie.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni uczucia i relacje?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-paz",
+      "name": "Paź Kielichy",
+      "suit": "Kielichy",
+      "number": null,
+      "description": "Kielichy: wiadomość i nauka w sferze uczucia.",
+      "keywords": [
+        "uczeń",
+        "wiadomość",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "zaleganie w emocjach",
+        "idealizacja"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — wiadomość/nauka w sferze uczucia i relacje.",
+          "career": "Praca: wiadomość/nauka prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: wiadomość/nauka; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: wiadomość/nauka — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość uczucia i relacje w codzienne decyzje.",
+          "yesno": "Raczej TAK.",
+          "timing": "Niedługo; gdy pojawi się sygnał."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać uczucia i relacje w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-ryc",
+      "name": "Rycerz Kielichy",
+      "suit": "Kielichy",
+      "number": null,
+      "description": "Kielichy: ruch i działanie w sferze uczucia.",
+      "keywords": [
+        "ruch",
+        "determinacja",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "zaleganie w emocjach",
+        "idealizacja"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — ruch/działanie w sferze uczucia i relacje.",
+          "career": "Praca: ruch/działanie prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: ruch/działanie; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: ruch/działanie — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość uczucia i relacje w codzienne decyzje.",
+          "yesno": "Raczej TAK.",
+          "timing": "Szybko; w ruchu."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać uczucia i relacje w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-krolowa",
+      "name": "Królowa Kielichy",
+      "suit": "Kielichy",
+      "number": null,
+      "description": "Kielichy: opieka i dojrzałość wewnętrzna w sferze uczucia.",
+      "keywords": [
+        "opieka",
+        "intuicja",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "zaleganie w emocjach",
+        "idealizacja"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — opieka/mądrość w sferze uczucia i relacje.",
+          "career": "Praca: opieka/mądrość prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: opieka/mądrość; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: opieka/mądrość — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość uczucia i relacje w codzienne decyzje.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; w stabilnym rytmie."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać uczucia i relacje w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "kiel-krol",
+      "name": "Król Kielichy",
+      "suit": "Kielichy",
+      "number": null,
+      "description": "Kielichy: władza i mistrzostwo w sferze uczucia.",
+      "keywords": [
+        "autorytet",
+        "strategia",
+        "uczucia",
+        "intuicja"
+      ],
+      "reversed": [
+        "nadwrażliwość",
+        "zaleganie w emocjach",
+        "idealizacja"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — mistrzostwo/władza w sferze uczucia i relacje.",
+          "career": "Praca: mistrzostwo/władza prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: mistrzostwo/władza; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: mistrzostwo/władza — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość uczucia i relacje w codzienne decyzje.",
+          "yesno": "Raczej TAK.",
+          "timing": "Gdy przejmiesz ster."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać uczucia i relacje w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-1",
+      "name": "As Miecze",
+      "suit": "Miecze",
+      "number": 1,
+      "description": "Miecze: początek i czysta iskra w obszarze myśl i komunikacja.",
+      "keywords": [
+        "potencjał",
+        "nowy impuls",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "konflikt",
+        "lęk",
+        "nadmierna analiza"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: początek w obszarze myśl i komunikacja. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: początek — rozpocznij śmiało. Wykorzystaj decyzja.",
+          "finance": "Finanse: początek — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: początek — regularność i samoopieka.",
+          "advice": "Rada: Rozpocznij śmiało.",
+          "yesno": "Raczej TAK.",
+          "timing": "Teraz; okno okazji jest otwarte."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni myśl i komunikacja?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-2",
+      "name": "Dwójka Miecze",
+      "suit": "Miecze",
+      "number": 2,
+      "description": "Miecze: dualność i wybór w obszarze myśl i komunikacja.",
+      "keywords": [
+        "partnerstwo",
+        "równowaga",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "konflikt",
+        "lęk",
+        "nadmierna analiza"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: wybór/partnerstwo w obszarze myśl i komunikacja. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: wybór/partnerstwo — podejmij decyzję. Wykorzystaj decyzja.",
+          "finance": "Finanse: wybór/partnerstwo — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: wybór/partnerstwo — regularność i samoopieka.",
+          "advice": "Rada: Podejmij decyzję.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni myśl i komunikacja?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-3",
+      "name": "Trójka Miecze",
+      "suit": "Miecze",
+      "number": 3,
+      "description": "Miecze: wzrost i ekspresja w obszarze myśl i komunikacja.",
+      "keywords": [
+        "tworzenie",
+        "współpraca",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "konflikt",
+        "lęk",
+        "nadmierna analiza"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: wzrost w obszarze myśl i komunikacja. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: wzrost — współpracuj i rozwijaj. Wykorzystaj decyzja.",
+          "finance": "Finanse: wzrost — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: wzrost — regularność i samoopieka.",
+          "advice": "Rada: Współpracuj i rozwijaj.",
+          "yesno": "Raczej TAK.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni myśl i komunikacja?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-4",
+      "name": "Czwórka Miecze",
+      "suit": "Miecze",
+      "number": 4,
+      "description": "Miecze: stabilizacja i struktura w obszarze myśl i komunikacja.",
+      "keywords": [
+        "fundament",
+        "granice",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "konflikt",
+        "lęk",
+        "nadmierna analiza"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: stabilność w obszarze myśl i komunikacja. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: stabilność — umocnij fundamenty. Wykorzystaj decyzja.",
+          "finance": "Finanse: stabilność — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: stabilność — regularność i samoopieka.",
+          "advice": "Rada: Umocnij fundamenty.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni myśl i komunikacja?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-5",
+      "name": "Piątka Miecze",
+      "suit": "Miecze",
+      "number": 5,
+      "description": "Miecze: napięcie i zmiana w obszarze myśl i komunikacja.",
+      "keywords": [
+        "wyzwanie",
+        "konflikt",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "konflikt",
+        "lęk",
+        "nadmierna analiza"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: zmiana/konflikt w obszarze myśl i komunikacja. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: zmiana/konflikt — zostań elastyczny. Wykorzystaj decyzja.",
+          "finance": "Finanse: zmiana/konflikt — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: zmiana/konflikt — regularność i samoopieka.",
+          "advice": "Rada: Zostań elastyczny.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Po minięciu napięcia."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni myśl i komunikacja?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-6",
+      "name": "Szóstka Miecze",
+      "suit": "Miecze",
+      "number": 6,
+      "description": "Miecze: harmonia i wymiana w obszarze myśl i komunikacja.",
+      "keywords": [
+        "przepływ",
+        "wsparcie",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "konflikt",
+        "lęk",
+        "nadmierna analiza"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: harmonia w obszarze myśl i komunikacja. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: harmonia — szukaj równowagi. Wykorzystaj decyzja.",
+          "finance": "Finanse: harmonia — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: harmonia — regularność i samoopieka.",
+          "advice": "Rada: Szukaj równowagi.",
+          "yesno": "Raczej TAK.",
+          "timing": "Wkrótce; po wyrównaniu przepływu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni myśl i komunikacja?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-7",
+      "name": "Siódemka Miecze",
+      "suit": "Miecze",
+      "number": 7,
+      "description": "Miecze: ocena i wewnętrzny wysiłek w obszarze myśl i komunikacja.",
+      "keywords": [
+        "wytrwałość",
+        "wgląd",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "konflikt",
+        "lęk",
+        "nadmierna analiza"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: próba/ocena w obszarze myśl i komunikacja. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: próba/ocena — wytrwaj i ucz się. Wykorzystaj decyzja.",
+          "finance": "Finanse: próba/ocena — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: próba/ocena — regularność i samoopieka.",
+          "advice": "Rada: Wytrwaj i ucz się.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni myśl i komunikacja?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-8",
+      "name": "Ósemka Miecze",
+      "suit": "Miecze",
+      "number": 8,
+      "description": "Miecze: moc i konsekwencja w obszarze myśl i komunikacja.",
+      "keywords": [
+        "praca",
+        "siła",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "konflikt",
+        "lęk",
+        "nadmierna analiza"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: moc/konsekwencja w obszarze myśl i komunikacja. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: moc/konsekwencja — działaj systematycznie. Wykorzystaj decyzja.",
+          "finance": "Finanse: moc/konsekwencja — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: moc/konsekwencja — regularność i samoopieka.",
+          "advice": "Rada: Działaj systematycznie.",
+          "yesno": "Raczej TAK.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni myśl i komunikacja?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-9",
+      "name": "Dziewiątka Miecze",
+      "suit": "Miecze",
+      "number": 9,
+      "description": "Miecze: dojrzałość i finał tuż przed kulminacją w obszarze myśl i komunikacja.",
+      "keywords": [
+        "spełnienie",
+        "wytrwałość",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "konflikt",
+        "lęk",
+        "nadmierna analiza"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: finał blisko w obszarze myśl i komunikacja. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: finał blisko — dokończ to, co zaczęte. Wykorzystaj decyzja.",
+          "finance": "Finanse: finał blisko — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: finał blisko — regularność i samoopieka.",
+          "advice": "Rada: Dokończ to, co zaczęte.",
+          "yesno": "Raczej TAK.",
+          "timing": "Wkrótce; gdy domkniesz etap."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni myśl i komunikacja?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-10",
+      "name": "Dziesiątka Miecze",
+      "suit": "Miecze",
+      "number": 10,
+      "description": "Miecze: kulminacja i zamknięcie cyklu w obszarze myśl i komunikacja.",
+      "keywords": [
+        "finał",
+        "przemiana",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "konflikt",
+        "lęk",
+        "nadmierna analiza"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: kulminacja w obszarze myśl i komunikacja. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: kulminacja — zaakceptuj zamknięcie. Wykorzystaj decyzja.",
+          "finance": "Finanse: kulminacja — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: kulminacja — regularność i samoopieka.",
+          "advice": "Rada: Zaakceptuj zamknięcie.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni myśl i komunikacja?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-paz",
+      "name": "Paź Miecze",
+      "suit": "Miecze",
+      "number": null,
+      "description": "Miecze: wiadomość i nauka w sferze myśl.",
+      "keywords": [
+        "uczeń",
+        "wiadomość",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "nadmierna analiza",
+        "lęk",
+        "spór"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — wiadomość/nauka w sferze myśl i komunikacja.",
+          "career": "Praca: wiadomość/nauka prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: wiadomość/nauka; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: wiadomość/nauka — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość myśl i komunikacja w codzienne decyzje.",
+          "yesno": "Raczej TAK.",
+          "timing": "Niedługo; gdy pojawi się sygnał."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać myśl i komunikacja w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-ryc",
+      "name": "Rycerz Miecze",
+      "suit": "Miecze",
+      "number": null,
+      "description": "Miecze: ruch i działanie w sferze myśl.",
+      "keywords": [
+        "ruch",
+        "determinacja",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "nadmierna analiza",
+        "lęk",
+        "spór"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — ruch/działanie w sferze myśl i komunikacja.",
+          "career": "Praca: ruch/działanie prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: ruch/działanie; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: ruch/działanie — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość myśl i komunikacja w codzienne decyzje.",
+          "yesno": "Raczej TAK.",
+          "timing": "Szybko; w ruchu."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać myśl i komunikacja w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-krolowa",
+      "name": "Królowa Miecze",
+      "suit": "Miecze",
+      "number": null,
+      "description": "Miecze: opieka i dojrzałość wewnętrzna w sferze myśl.",
+      "keywords": [
+        "opieka",
+        "intuicja",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "nadmierna analiza",
+        "lęk",
+        "spór"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — opieka/mądrość w sferze myśl i komunikacja.",
+          "career": "Praca: opieka/mądrość prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: opieka/mądrość; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: opieka/mądrość — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość myśl i komunikacja w codzienne decyzje.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; w stabilnym rytmie."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać myśl i komunikacja w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "mie-krol",
+      "name": "Król Miecze",
+      "suit": "Miecze",
+      "number": null,
+      "description": "Miecze: władza i mistrzostwo w sferze myśl.",
+      "keywords": [
+        "autorytet",
+        "strategia",
+        "myśl",
+        "komunikacja"
+      ],
+      "reversed": [
+        "nadmierna analiza",
+        "lęk",
+        "spór"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — mistrzostwo/władza w sferze myśl i komunikacja.",
+          "career": "Praca: mistrzostwo/władza prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: mistrzostwo/władza; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: mistrzostwo/władza — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość myśl i komunikacja w codzienne decyzje.",
+          "yesno": "Raczej TAK.",
+          "timing": "Gdy przejmiesz ster."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać myśl i komunikacja w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-1",
+      "name": "As Pentakle",
+      "suit": "Pentakle",
+      "number": 1,
+      "description": "Pentakle: początek i czysta iskra w obszarze materia i praca.",
+      "keywords": [
+        "potencjał",
+        "nowy impuls",
+        "materia",
+        "praca"
+      ],
+      "reversed": [
+        "zastój",
+        "posiadanie",
+        "sztywność"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: początek w obszarze materia i praca. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: początek — rozpocznij śmiało. Wykorzystaj praktyczność.",
+          "finance": "Finanse: początek — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: początek — regularność i samoopieka.",
+          "advice": "Rada: Rozpocznij śmiało.",
+          "yesno": "Raczej TAK.",
+          "timing": "Teraz; okno okazji jest otwarte."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni materia i praca?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-2",
+      "name": "Dwójka Pentakle",
+      "suit": "Pentakle",
+      "number": 2,
+      "description": "Pentakle: dualność i wybór w obszarze materia i praca.",
+      "keywords": [
+        "partnerstwo",
+        "równowaga",
+        "materia",
+        "praca"
+      ],
+      "reversed": [
+        "zastój",
+        "posiadanie",
+        "sztywność"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: wybór/partnerstwo w obszarze materia i praca. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: wybór/partnerstwo — podejmij decyzję. Wykorzystaj praktyczność.",
+          "finance": "Finanse: wybór/partnerstwo — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: wybór/partnerstwo — regularność i samoopieka.",
+          "advice": "Rada: Podejmij decyzję.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni materia i praca?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-3",
+      "name": "Trójka Pentakle",
+      "suit": "Pentakle",
+      "number": 3,
+      "description": "Pentakle: wzrost i ekspresja w obszarze materia i praca.",
+      "keywords": [
+        "tworzenie",
+        "współpraca",
+        "materia",
+        "praca"
+      ],
+      "reversed": [
+        "zastój",
+        "posiadanie",
+        "sztywność"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: wzrost w obszarze materia i praca. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: wzrost — współpracuj i rozwijaj. Wykorzystaj praktyczność.",
+          "finance": "Finanse: wzrost — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: wzrost — regularność i samoopieka.",
+          "advice": "Rada: Współpracuj i rozwijaj.",
+          "yesno": "Raczej TAK.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni materia i praca?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-4",
+      "name": "Czwórka Pentakle",
+      "suit": "Pentakle",
+      "number": 4,
+      "description": "Pentakle: stabilizacja i struktura w obszarze materia i praca.",
+      "keywords": [
+        "fundament",
+        "granice",
+        "materia",
+        "praca"
+      ],
+      "reversed": [
+        "zastój",
+        "posiadanie",
+        "sztywność"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: stabilność w obszarze materia i praca. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: stabilność — umocnij fundamenty. Wykorzystaj praktyczność.",
+          "finance": "Finanse: stabilność — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: stabilność — regularność i samoopieka.",
+          "advice": "Rada: Umocnij fundamenty.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni materia i praca?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-5",
+      "name": "Piątka Pentakle",
+      "suit": "Pentakle",
+      "number": 5,
+      "description": "Pentakle: napięcie i zmiana w obszarze materia i praca.",
+      "keywords": [
+        "wyzwanie",
+        "konflikt",
+        "materia",
+        "praca"
+      ],
+      "reversed": [
+        "zastój",
+        "posiadanie",
+        "sztywność"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: zmiana/konflikt w obszarze materia i praca. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: zmiana/konflikt — zostań elastyczny. Wykorzystaj praktyczność.",
+          "finance": "Finanse: zmiana/konflikt — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: zmiana/konflikt — regularność i samoopieka.",
+          "advice": "Rada: Zostań elastyczny.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Po minięciu napięcia."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni materia i praca?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-6",
+      "name": "Szóstka Pentakle",
+      "suit": "Pentakle",
+      "number": 6,
+      "description": "Pentakle: harmonia i wymiana w obszarze materia i praca.",
+      "keywords": [
+        "przepływ",
+        "wsparcie",
+        "materia",
+        "praca"
+      ],
+      "reversed": [
+        "zastój",
+        "posiadanie",
+        "sztywność"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: harmonia w obszarze materia i praca. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: harmonia — szukaj równowagi. Wykorzystaj praktyczność.",
+          "finance": "Finanse: harmonia — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: harmonia — regularność i samoopieka.",
+          "advice": "Rada: Szukaj równowagi.",
+          "yesno": "Raczej TAK.",
+          "timing": "Wkrótce; po wyrównaniu przepływu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni materia i praca?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-7",
+      "name": "Siódemka Pentakle",
+      "suit": "Pentakle",
+      "number": 7,
+      "description": "Pentakle: ocena i wewnętrzny wysiłek w obszarze materia i praca.",
+      "keywords": [
+        "wytrwałość",
+        "wgląd",
+        "materia",
+        "praca"
+      ],
+      "reversed": [
+        "zastój",
+        "posiadanie",
+        "sztywność"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: próba/ocena w obszarze materia i praca. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: próba/ocena — wytrwaj i ucz się. Wykorzystaj praktyczność.",
+          "finance": "Finanse: próba/ocena — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: próba/ocena — regularność i samoopieka.",
+          "advice": "Rada: Wytrwaj i ucz się.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni materia i praca?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-8",
+      "name": "Ósemka Pentakle",
+      "suit": "Pentakle",
+      "number": 8,
+      "description": "Pentakle: moc i konsekwencja w obszarze materia i praca.",
+      "keywords": [
+        "praca",
+        "siła",
+        "materia"
+      ],
+      "reversed": [
+        "zastój",
+        "posiadanie",
+        "sztywność"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: moc/konsekwencja w obszarze materia i praca. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: moc/konsekwencja — działaj systematycznie. Wykorzystaj praktyczność.",
+          "finance": "Finanse: moc/konsekwencja — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: moc/konsekwencja — regularność i samoopieka.",
+          "advice": "Rada: Działaj systematycznie.",
+          "yesno": "Raczej TAK.",
+          "timing": "Stopniowo; daj temu czas i przestrzeń."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni materia i praca?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-9",
+      "name": "Dziewiątka Pentakle",
+      "suit": "Pentakle",
+      "number": 9,
+      "description": "Pentakle: dojrzałość i finał tuż przed kulminacją w obszarze materia i praca.",
+      "keywords": [
+        "spełnienie",
+        "wytrwałość",
+        "materia",
+        "praca"
+      ],
+      "reversed": [
+        "zastój",
+        "posiadanie",
+        "sztywność"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: finał blisko w obszarze materia i praca. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: finał blisko — dokończ to, co zaczęte. Wykorzystaj praktyczność.",
+          "finance": "Finanse: finał blisko — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: finał blisko — regularność i samoopieka.",
+          "advice": "Rada: Dokończ to, co zaczęte.",
+          "yesno": "Raczej TAK.",
+          "timing": "Wkrótce; gdy domkniesz etap."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni materia i praca?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-10",
+      "name": "Dziesiątka Pentakle",
+      "suit": "Pentakle",
+      "number": 10,
+      "description": "Pentakle: kulminacja i zamknięcie cyklu w obszarze materia i praca.",
+      "keywords": [
+        "finał",
+        "przemiana",
+        "materia",
+        "praca"
+      ],
+      "reversed": [
+        "zastój",
+        "posiadanie",
+        "sztywność"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: kulminacja w obszarze materia i praca. Komunikuj potrzeby i słuchaj uważnie.",
+          "career": "Praca: kulminacja — zaakceptuj zamknięcie. Wykorzystaj praktyczność.",
+          "finance": "Finanse: kulminacja — planuj realistycznie i trzymaj się zasad.",
+          "health": "Zdrowie: kulminacja — regularność i samoopieka.",
+          "advice": "Rada: Zaakceptuj zamknięcie.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "W swoim czasie; zakończenie bieżącego cyklu."
+        },
+        "imagery": [],
+        "questions": [
+          "Co dziś wzmocni materia i praca?",
+          "Jaki jeden nawyk mogę wdrożyć od razu?"
+        ],
+        "affirmations": [
+          "Drobne kroki tworzą duży postęp.",
+          "Wprowadzam intencję w praktykę."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-paz",
+      "name": "Paź Pentakle",
+      "suit": "Pentakle",
+      "number": null,
+      "description": "Pentakle: wiadomość i nauka w sferze materia.",
+      "keywords": [
+        "uczeń",
+        "wiadomość",
+        "materia",
+        "praca"
+      ],
+      "reversed": [
+        "zastój",
+        "chciwość",
+        "przywiązanie do formy"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — wiadomość/nauka w sferze materia i praca.",
+          "career": "Praca: wiadomość/nauka prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: wiadomość/nauka; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: wiadomość/nauka — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość materia i praca w codzienne decyzje.",
+          "yesno": "Raczej TAK.",
+          "timing": "Niedługo; gdy pojawi się sygnał."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać materia i praca w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-ryc",
+      "name": "Rycerz Pentakle",
+      "suit": "Pentakle",
+      "number": null,
+      "description": "Pentakle: ruch i działanie w sferze materia.",
+      "keywords": [
+        "ruch",
+        "determinacja",
+        "materia",
+        "praca"
+      ],
+      "reversed": [
+        "zastój",
+        "chciwość",
+        "przywiązanie do formy"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — ruch/działanie w sferze materia i praca.",
+          "career": "Praca: ruch/działanie prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: ruch/działanie; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: ruch/działanie — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość materia i praca w codzienne decyzje.",
+          "yesno": "Raczej TAK.",
+          "timing": "Szybko; w ruchu."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać materia i praca w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-krolowa",
+      "name": "Królowa Pentakle",
+      "suit": "Pentakle",
+      "number": null,
+      "description": "Pentakle: opieka i dojrzałość wewnętrzna w sferze materia.",
+      "keywords": [
+        "opieka",
+        "intuicja",
+        "materia",
+        "praca"
+      ],
+      "reversed": [
+        "zastój",
+        "chciwość",
+        "przywiązanie do formy"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — opieka/mądrość w sferze materia i praca.",
+          "career": "Praca: opieka/mądrość prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: opieka/mądrość; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: opieka/mądrość — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość materia i praca w codzienne decyzje.",
+          "yesno": "Neutralne — zależy od działania.",
+          "timing": "Stopniowo; w stabilnym rytmie."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać materia i praca w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "pen-krol",
+      "name": "Król Pentakle",
+      "suit": "Pentakle",
+      "number": null,
+      "description": "Pentakle: władza i mistrzostwo w sferze materia.",
+      "keywords": [
+        "autorytet",
+        "strategia",
+        "materia",
+        "praca"
+      ],
+      "reversed": [
+        "zastój",
+        "chciwość",
+        "przywiązanie do formy"
+      ],
+      "more": {
+        "correspondences": {},
+        "meanings": {
+          "love": "Miłość: dojrzała energia dworska — mistrzostwo/władza w sferze materia i praca.",
+          "career": "Praca: mistrzostwo/władza prowadzi do rezultatów; bądź konsekwentny/a.",
+          "finance": "Finanse: mistrzostwo/władza; zarządzaj zasobami odpowiedzialnie.",
+          "health": "Zdrowie: mistrzostwo/władza — trzymaj rytm i dbaj o regenerację.",
+          "advice": "Rada: wcielaj wartość materia i praca w codzienne decyzje.",
+          "yesno": "Raczej TAK.",
+          "timing": "Gdy przejmiesz ster."
+        },
+        "imagery": [],
+        "questions": [
+          "Jak mogę okazać materia i praca w praktyce?",
+          "Jakie działanie wzmocni mój kierunek dziś?"
+        ],
+        "affirmations": [
+          "Moja postawa kształtuje wynik.",
+          "Jestem konsekwentny/a w działaniu."
+        ],
+        "notes": ""
+      }
+    }
+  ]
+}
